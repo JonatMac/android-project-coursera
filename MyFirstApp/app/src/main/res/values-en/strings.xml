@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="titulo_app">Android Project - Coursera</string>
+    <string name="descripcion">My name is Jonathan</string>
+    <string name="saludo">Welcome</string>
+</resources>
